@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+
+h1{
+    font-size: 4rem;
+    color: blue;
+}
+
+body{
+    padding: auto, 1rem;
+    color:aliceblue;
+}
+
+#par{
+    color: rgb(14, 154, 197);
+    font-size: 2rem;
+}
+
