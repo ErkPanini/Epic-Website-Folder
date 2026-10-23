@@ -1,5 +1,6 @@
 *{
     text-align: center;
+    cursor: default;
 }
 
 h1{
@@ -8,12 +9,24 @@ h1{
 }
 
 body{
-    padding: auto, 1rem;
-    color:aliceblue;
+    padding: auto, 2rem;
+    color:rgb(48, 48, 48);
+    background-color: rgb(226, 255, 253);
 }
 
-#par{
+em{
     color: rgb(14, 154, 197);
     font-size: 2rem;
+}
+
+mark{
+    color:rgb(219, 47, 235);
+    font-size:70;
+}
+
+img{
+    padding-top: 1.5rem;
+    cursor: pointer;
+    width: 16rem;
 }
 
